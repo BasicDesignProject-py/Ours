@@ -11,4 +11,6 @@ Flow Chart:
 04 - If there are cats and dogs: Show the result
      If there is no cat or dog: Output "No desired animal found"
 05 - Finish
+
+To make the program work, we will need some 
 """
