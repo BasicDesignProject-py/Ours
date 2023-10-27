@@ -12,5 +12,5 @@ Flow Chart:
      If there is no cat or dog: Output "No desired animal found"
 05 - Finish
 
-To make the program work, we will need some 
+To make the program work, we will need some knowledges about OpenCV (which includes Numpy and CV2) library.
 """
