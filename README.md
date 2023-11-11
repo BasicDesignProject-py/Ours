@@ -14,3 +14,15 @@ Flow Chart:
 
 To make the program work, we will need some knowledges about OpenCV (which includes Numpy and CV2) library.
 """
+
+"""
+2023.11.11. MEMO
+
+As our adviser told us, we are able to write the codes in C language.
+Min is learning the OpenCV libraries (cv2, numpy). He is active.
+Alsaba is learning Python. She is active also.
+Next weekend (or after) we are planning to have a small meeting, checking each others progress level and results.
+Soon will be some more updates.
+
+- Nurislom YUSUPOV
+"""
